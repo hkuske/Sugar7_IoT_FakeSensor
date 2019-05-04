@@ -23,10 +23,10 @@ $manifest = array (
   'description' => 'Scheduler: ThingSpeak_Fake',
   'icon' => '',
   'is_uninstallable' => true,
-  'name' => 'Currency_Update',
+  'name' => 'ThingSpeak_Fake',
   'published_date' => '2019-05-01 00:00:00',
   'type' => 'module',
-  'version' => 9.0.0,
+  'version' => '9.0.0',
   'remove_tables' => 'false',
 );
 

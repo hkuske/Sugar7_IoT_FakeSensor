@@ -26,7 +26,7 @@ $manifest = array (
   'name' => 'Currency_Update',
   'published_date' => '2019-05-01 00:00:00',
   'type' => 'module',
-  'version' => 9.0.0,
+  'version' => '9.0.0',
   'remove_tables' => 'false',
 );
 
